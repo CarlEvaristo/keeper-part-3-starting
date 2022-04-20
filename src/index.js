@@ -11,7 +11,6 @@ root.render(
 //2. Implement the delete note functionality.
 
 // finished this project without the hints
-// !!!
 
 
 
