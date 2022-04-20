@@ -5,6 +5,7 @@ import App from "./components/App";
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
     <App />
+    
 )
 
 //1. Implement the add note functionality.
@@ -12,7 +13,7 @@ root.render(
 
 // finished this project without the hints
 
-// test
+// 
 
 
 
