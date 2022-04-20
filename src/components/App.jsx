@@ -8,8 +8,7 @@ function App() {
   const [keeperItems, setKeeperItem] = useState([])
 
   function addItem(item) {
-    console.log(item)
-    if (item.title === "" && item.content === "") alert("Please fill in fields!")
+    if (item.title === "" && item.content === "") alert("Please fill in all fields!")
     else setKeeperItem([...keeperItems, item])
   }
 
