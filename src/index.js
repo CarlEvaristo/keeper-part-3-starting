@@ -10,7 +10,7 @@ root.render(
 //1. Implement the add note functionality.
 //2. Implement the delete note functionality.
 
-
+// finished this project without the hints
 
 
 
